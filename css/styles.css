@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  background-color: lightblue;
+}
+
+h1 {
+  text-align: center;
+  color: steelblue;
+}
+
+h2 {
+  text-align: center;
+  color: aquamarine;
+}
+
+ul {
+  color: azure;
+  font-family: fantasy;
+  text-align: center;
+}
+
+p {
+  font-weight: bold;
+  text-align: center;
+  line-height: 2.5;
+  color:teal;
+}
+
+img {
+  height: 200px;
+  width: 100%;
+}
